@@ -514,6 +514,12 @@
           "version": "3.0.0",
           "reason": "https://github.com/mysticatea/abort-controller/blob/a935d38e09eb95d6b633a8c42fcceec9969e7b05/src/abort-controller.ts#L33"
         }
+      },
+      "@simplewebauthn/browser": {
+        "^4.1.0": {
+          "version": "^4.1.0",
+          "reason": "https://github.com/MasterKale/SimpleWebAuthn/blob/f07dd0b1689f6db41899dfcda628d0caf0f167c2/packages/browser/src/helpers/bufferToBase64URLString.ts#L11"
+        }
       }
     }
   }
