@@ -513,6 +513,11 @@
         "3.0.0": {
           "version": "3.0.0",
           "reason": "https://github.com/mysticatea/abort-controller/blob/a935d38e09eb95d6b633a8c42fcceec9969e7b05/src/abort-controller.ts#L33"
+        },
+      "d3-regression": {
+        "1.3.5": {
+          "version": "^1.3.5",
+          "reason": "https://github.com/HarryStevens/d3-regression/blob/master/src/exponential.js#L7 + https://github.com/HarryStevens/d3-regression/blob/master/src/exponential.js#L21"
         }
       }
     }
