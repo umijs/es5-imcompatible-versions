@@ -545,6 +545,30 @@
           "version": "1.5.0",
           "reason": "https://github.com/soldair/node-qrcode/blob/f08fd572d7cca92c8b9d71b24cebccf61663d4a6/lib/core/byte-data.js#L22"
         }
+      },
+       "recoil": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/facebookexperimental/Recoil/blob/main/packages/recoil/hooks/Recoil_useRecoilCallback.js#L46"
+        }
+      },
+      "@pattern-x/gemini-viewer": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/pattern-x/gemini-viewer/blob/main/src/core/BimViewer.ts#L180"
+        }
+      },
+      "@pattern-x/gemini-viewer-threejs": {
+        "*": {
+          "version": "*",
+          "reason": "see https://www.npmjs.com/package/@pattern-x/gemini-viewer-threejs"
+        }
+      },
+      "@pattern-x/gemini-viewer-ue-web": {
+        "*": {
+          "version": "*",
+          "reason": "see https://www.npmjs.com/package/@pattern-x/gemini-viewer-ue-web"
+        }
       }
     }
   }
