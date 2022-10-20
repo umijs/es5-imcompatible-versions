@@ -545,6 +545,12 @@
           "version": "1.5.0",
           "reason": "https://github.com/soldair/node-qrcode/blob/f08fd572d7cca92c8b9d71b24cebccf61663d4a6/lib/core/byte-data.js#L22"
         }
+      },
+      "html-to-react": {
+        "^1.4.8": {
+          "version": "^1.4.8",
+          "reason": "https://github.com/aknuds1/html-to-react/blob/master/lib/utils.js#L9"
+        }
       }
     }
   }
