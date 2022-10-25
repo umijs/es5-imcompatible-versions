@@ -545,6 +545,12 @@
           "version": "1.5.0",
           "reason": "https://github.com/soldair/node-qrcode/blob/f08fd572d7cca92c8b9d71b24cebccf61663d4a6/lib/core/byte-data.js#L22"
         }
+      },
+      "fast-deep-equal": {
+        "^3.1.3": {
+          "version": "^3.1.3",
+          "reason": "https://github.com/epoberezkin/fast-deep-equal/blob/master/src/index.jst#L29"
+        }
       }
     }
   }
