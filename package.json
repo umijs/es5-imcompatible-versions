@@ -545,6 +545,12 @@
           "version": "1.5.0",
           "reason": "https://github.com/soldair/node-qrcode/blob/f08fd572d7cca92c8b9d71b24cebccf61663d4a6/lib/core/byte-data.js#L22"
         }
+      },
+      "@use-gesture/react": {
+        "10.2.20": {
+          "version": "10.2.20",
+          "reason": "https://github.com/pmndrs/use-gesture/blob/main/packages/react/src/useRecognizers.ts#L21"
+        }
       }
     }
   }
