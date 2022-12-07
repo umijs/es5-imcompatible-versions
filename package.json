@@ -545,6 +545,12 @@
           "version": "1.5.0",
           "reason": "https://github.com/soldair/node-qrcode/blob/f08fd572d7cca92c8b9d71b24cebccf61663d4a6/lib/core/byte-data.js#L22"
         }
+      },
+      "axios": {
+        "^1.2.0": {
+          "version": "^1.2.0",
+          "reason": "https://github.com/axios/axios/blob/v1.2.0/dist/esm/axios.js#L926"
+        }
       }
     }
   }
