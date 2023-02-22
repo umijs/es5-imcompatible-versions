@@ -551,6 +551,12 @@
           "version": "<5.0.0",
           "reason": "https://github.com/apache/arrow/commit/93bdbf1df56ffd33af10de104c68cdcb85e54fa5#diff-078af6b8801d0e03590b0311cc2d27e8663bb98bd9c927977d208c6ee1211198R70-R71"
         }
+      },
+      "jose": {
+        "^4.12.0": {
+          "version": "^4.12.0",
+          "reason": "https://github.com/panva/jose/blob/bba48249db55cb9ce86e739595ef53bf3422cced/dist/browser/jwks/local.js#L85"
+        }
       }
     }
   }
