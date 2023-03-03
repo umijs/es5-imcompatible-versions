@@ -557,6 +557,12 @@
           "version": "^4.12.0",
           "reason": "https://github.com/panva/jose/blob/bba48249db55cb9ce86e739595ef53bf3422cced/dist/browser/jwks/local.js#L85"
         }
+      },
+      "ip-bigint": {
+        ">1.0.0": {
+          "version": ">1.0.0",
+          "reason": "https://github.com/silverwind/ip-bigint/blob/6.0.0/index.js#L20"
+        }
       }
     }
   }
