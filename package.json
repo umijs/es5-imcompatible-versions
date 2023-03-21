@@ -557,6 +557,18 @@
           "version": "^4.12.0",
           "reason": "https://github.com/panva/jose/blob/bba48249db55cb9ce86e739595ef53bf3422cced/dist/browser/jwks/local.js#L85"
         }
+      },
+      "@aws-sdk/eventstream-serde-browser": {
+        "^3.183.0": {
+          "version": "^3.183.0",
+          "reason": "https://github.com/aws/aws-sdk-js-v3/commit/6a7fea46868573538cf76f3541d873027b54c0b0"
+        }
+      },
+      "@aws-sdk/eventstream-serde-universal": {
+        "^3.183.0": {
+          "version": "^3.183.0",
+          "reason": "https://github.com/aws/aws-sdk-js-v3/commit/6a7fea46868573538cf76f3541d873027b54c0b0"
+        }
       }
     }
   }
