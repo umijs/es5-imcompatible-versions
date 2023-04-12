@@ -575,6 +575,12 @@
           "version": "^1.0.8",
           "reason": "https://github.com/bvaughn/react-virtualized-auto-sizer/blob/9f7d6a5edbc3d3c97023864867e970ad8b2f4ef0/src/AutoSizer.ts#L41"
         }
+      },
+      "file-system-access": {
+        "^1.0.1": {
+          "version": "^1.0.1",
+          "reason": "https://github.com/use-strict/file-system-access/blob/master/tsconfig.json#L3"
+        }
       }
     }
   }
