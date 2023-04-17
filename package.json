@@ -575,6 +575,12 @@
           "version": "^1.0.8",
           "reason": "https://github.com/bvaughn/react-virtualized-auto-sizer/blob/9f7d6a5edbc3d3c97023864867e970ad8b2f4ef0/src/AutoSizer.ts#L41"
         }
+      },
+      "table-xlsx": {
+        "^0.1.9": {
+          "version": "^0.1.9",
+          "reason": "https://github.com/PengChen96/table-xlsx"
+        }
       }
     }
   }
