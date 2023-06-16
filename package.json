@@ -587,6 +587,12 @@
           "version": "*",
           "reason": "https://github.com/niieani/gpt-tokenizer/blob/30a57f7357eab13bdef80a26ee336a45624d5a22/package.json#L71"
         }
+      },
+      "readable-stream": {
+        "^4.0.0": {
+          "version": "^4.0.0",
+          "reason": "https://github.com/nodejs/readable-stream/blob/49a45a92f4ccacd6ab496c5b5143b117bea2fa8b/build/build.mjs#L123"
+        }
       }
     }
   }
