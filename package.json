@@ -593,6 +593,12 @@
           "version": "^4.0.0",
           "reason": "https://github.com/nodejs/readable-stream/blob/49a45a92f4ccacd6ab496c5b5143b117bea2fa8b/build/build.mjs#L123"
         }
+      },
+      "@smithy/eventstream-serde-browser": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/awslabs/smithy-typescript/blob/170ac7648c4832fef5ed893a9aa99b176a0445fc/packages/eventstream-serde-browser/src/utils.ts#L8"
+        }
       }
     }
   }
