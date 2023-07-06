@@ -599,6 +599,18 @@
           "version": "*",
           "reason": "https://github.com/awslabs/smithy-typescript/blob/170ac7648c4832fef5ed893a9aa99b176a0445fc/packages/eventstream-serde-browser/src/utils.ts#L8"
         }
+      },
+      "@smithy/eventstream-serde-universal": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/awslabs/smithy-typescript/blob/b1e7afa9bc419d6f5f20945c150cd1a9e9ffa0b3/packages/eventstream-serde-universal/src/getUnmarshalledStream.ts#L22"
+        }
+      },
+      "@smithy/eventstream-codec":{
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/awslabs/smithy-typescript/blob/b1e7afa9bc419d6f5f20945c150cd1a9e9ffa0b3/packages/eventstream-codec/src/MessageDecoderStream.ts#L21"
+        }
       }
     }
   }
