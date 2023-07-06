@@ -1,6 +1,6 @@
 {
   "name": "es5-imcompatible-versions",
-  "version": "0.1.85",
+  "version": "0.1.86",
   "description": "Collect all uglify bug versions on npm package.",
   "main": "index.js",
   "files": [
@@ -606,7 +606,7 @@
           "reason": "https://github.com/awslabs/smithy-typescript/blob/b1e7afa9bc419d6f5f20945c150cd1a9e9ffa0b3/packages/eventstream-serde-universal/src/getUnmarshalledStream.ts#L22"
         }
       },
-      "@smithy/eventstream-codec":{
+      "@smithy/eventstream-codec": {
         "*": {
           "version": "*",
           "reason": "https://github.com/awslabs/smithy-typescript/blob/b1e7afa9bc419d6f5f20945c150cd1a9e9ffa0b3/packages/eventstream-codec/src/MessageDecoderStream.ts#L21"
