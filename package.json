@@ -611,6 +611,12 @@
           "version": "*",
           "reason": "https://github.com/awslabs/smithy-typescript/blob/b1e7afa9bc419d6f5f20945c150cd1a9e9ffa0b3/packages/eventstream-codec/src/MessageDecoderStream.ts#L21"
         }
+      },
+      "@stackblitz/sdk": {
+        "^1.9.0": {
+          "version": "^1.9.0",
+          "reason": "https://github.com/stackblitz/sdk/blob/6d73e9ab06f5254fb59a8d8a77ffe7a674ba9585/vite.config.ts#L28"
+        }
       }
     }
   }
