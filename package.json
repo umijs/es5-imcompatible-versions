@@ -621,7 +621,7 @@
       "exceljs": {
         "^4.4.0": {
           "version": "^4.4.0",
-          "reason": ""
+          "reason": "https://github.com/exceljs/exceljs/blob/master/.browserslistrc#L1"
         }
       }
     }
