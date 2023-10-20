@@ -617,6 +617,12 @@
           "version": "^1.9.0",
           "reason": "https://github.com/stackblitz/sdk/blob/6d73e9ab06f5254fb59a8d8a77ffe7a674ba9585/vite.config.ts#L28"
         }
+      },
+      "exceljs": {
+        "^4.4.0": {
+          "version": "^4.4.0",
+          "reason": ""
+        }
       }
     }
   }
