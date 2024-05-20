@@ -629,6 +629,12 @@
           "version": "*",
           "reason": "https://github.com/pmndrs/valtio/blob/main/src/vanilla.ts#L393"
         }
+      },
+      "axios": {
+        "^1.7.0": {
+          "version": "^1.7.0",
+          "reason": "axios@^1.7.0 uses generator"
+        }
       }
     }
   }
